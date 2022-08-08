@@ -60,18 +60,12 @@ def cleaning_text(contents):
     
     return df
 # %%
-def sentence_df(df_clean_na, concat_df, company_paticipants_list, other_paticipants_list):
-    no_par_df = pd.DataFrame()
-    # identify the len before NaN of each column
-    for column in df_clean_na.columns:
-        # exclude the row if no_par_df[column]==no_par_df[f"participants_{column}"]
-        no_par_df = concat_df[concat_df[column] != concat_df[f"participants_{column}"]]
-
-    # use len(no_par_df.columns.to_list()) to write a for loop
+def sentence_df(concat_df, company_paticipants_list, other_paticipants_list):
     model_df = pd.DataFrame()
-    for i in range(int(len(no_par_df.columns.to_list())/2)):
+    for i in range(int(len(concat_df.columns.to_list())/3)):
+        #print(i)
         tmp_df = pd.DataFrame()
-        tmp_df = no_par_df.iloc[:,(i*2):(i*2)+2].copy()
+        tmp_df = concat_df.iloc[:,(i*3):(i*3)+3].copy()
         # extract the index as column from the text
         tmp_df['file_name'] = tmp_df.columns.to_list()[0]
         # extract the date from the index column
@@ -79,17 +73,21 @@ def sentence_df(df_clean_na, concat_df, company_paticipants_list, other_paticipa
         # change the date column to datetime
         tmp_df['date'] = pd.to_datetime(tmp_df['date'])
         # rename to be consistent with the column name
-        tmp_df.columns = ["sentence", "participants", "file_name","date"]
+        tmp_df.columns = ["line", "participants",  "idx", "file_name","date"]
         # if the 'participants' column's value equals to any of the company_paticipants_list, other_paticipants_list, then set the value to 0
         tmp_df['company_paticipants_yes'] = tmp_df['participants'].apply(lambda x: 1 if x in company_paticipants_list else 0)
         tmp_df['other_paticipants_yes'] = tmp_df['participants'].apply(lambda x: 1 if x in other_paticipants_list else 0)
-        # drop the row if the column "sentence" is NaN
-        tmp_df = tmp_df.dropna(subset=['sentence'], how='all')
+        # drop the row if the column "line" is NaN
+        tmp_df = tmp_df.dropna(subset=['line'], how='all')
         tmp_df['company_name1']  = tmp_df['file_name'].apply(lambda x: x.split('_')[1])
         tmp_df['company_name2']  = tmp_df['file_name'].apply(lambda x: x.split('_')[2])
         tmp_df['company_name'] = tmp_df["company_name1"] + " " + tmp_df["company_name2"]
         # drop the 'company_name1' and 'company_name2' column
-        tmp_df = tmp_df.drop(columns=['company_name1', 'company_name2'])
+        tmp_df = tmp_df.drop(columns=['company_name1', 'company_name2']).reset_index(drop=True)
+        # drop line contains only participants name
+        id_rows = tmp_df[tmp_df['line']==tmp_df['participants']].index
+        tmp_df = tmp_df.drop(id_rows)
+        # append into dataframe
         model_df = model_df.append(tmp_df)
         return model_df
 # %%
