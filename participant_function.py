@@ -11,7 +11,11 @@ def participants_list(df):
     # try to find the 'MANAGEMENT DISCUSSION SECTION' or 'Presentation' index
     if Participant_end_index == []:
         Participant_end_index = df.index[df.iloc[:,0] == 'Presentation'].tolist()
-        Participant_end_index = [Participant_end_index[-1]]
+        if Participant_end_index == []:
+            Participant_end_index = df.index[df.iloc[:,0] == 'Questions And Answers' ].tolist()
+            Participant_end_index = [Participant_end_index[-1]]
+        else:
+            Participant_end_index = [Participant_end_index[-1]]    
     # some transcript dont have 'Other Participants'
     if Participant_middle_index == []:
         Participant_middle_index = Participant_end_index
