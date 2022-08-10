@@ -11,6 +11,12 @@ def cleaning_text(contents):
     df[0] = df[0].str.replace('Bloomberg Transcript','')
     df[0] = df[0].str.replace('\x0c\n','')
     df[0] = df[0].str.replace('FINAL','')
+    df[0] = df[0].str.replace('*','')
+    df[0] = df[0].str.replace('Q','')
+    df[0] = df[0].str.replace('A','')
+    df[0] = df[0].str.replace('[','')
+    df[0] = df[0].str.replace(']','')
+    df[0] = df[0].str.replace(':','')
     df[0] = df[0].str.replace('A - ','')
     df[0] = df[0].str.replace('Q - ','')
     # using re to remove the unnessary string
@@ -38,7 +44,7 @@ def cleaning_text(contents):
     df = df[df[0] != 'furnishing, performance or use of such transcript. Neither the information nor any']
     df = df[df[0] != 'opinion expressed in this transcript constitutes a solicitation of the purchase or sale of']
     df = df[df[0] != 'securities or commodities. Any opinion expressed in the transcript does not necessarily']
-    # df = df[df[0] != 'reflect the views of Bloomberg LP. ¬© COPYRIGHT 2022, BLOOMBERG LP. All rights']  # we will need this to identify the last participant
+    df = df[df[0] != 'reflect the views of Bloomberg LP. ¬© COPYRIGHT 2022, BLOOMBERG LP. All rights']  # we will need this to identify the last participant
     df = df[df[0] != 'reserved. Any reproduction, redistribution or retransmission is expressly prohibited.']
     # ¬© could not be identified, would apply re
     def drop_Bloomberg_mark(x):
@@ -54,6 +60,21 @@ def cleaning_text(contents):
     # drop the empthy row
     df = df[df[0] != '']
     df = df[df[0] != '']
+
+    # drop the Questions And Answers and the following rows
+    QA_index = df.index[df.iloc[:,0] == 'Questions And Answers'].tolist()
+    # get the index of the last row of df
+    end_index = [len(df)]
+    if QA_index == []:
+        QA_index = df.index[df.iloc[:,0] == 'Q&A'].tolist()
+        end_index = [len(df)]
+        if QA_index == []:
+            # get the index of the last row of df
+            end_index = []
+
+    # drop the row between QA_index and end_index
+    if QA_index != []:
+        df = df.drop(df.index[QA_index[0]+1:end_index[0]])
 
     # reset the index to make sure the index is continuous for better processing
     df = df.reset_index(drop=True)
