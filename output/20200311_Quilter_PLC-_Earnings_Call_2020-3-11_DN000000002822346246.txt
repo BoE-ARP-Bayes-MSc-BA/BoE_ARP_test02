@@ -21,10 +21,7 @@ Presentation
 
 Bloomberg Transcript
 
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Good morning, everybody. We'll follow the usual format this morning. I'll run through a
 summary of 2019 and I'll spend a bit of time on how we've been developing our business
 to better position us for the growth opportunities that we see ahead. Mark will then run
@@ -358,10 +355,7 @@ but we haven't (inaudible) and I truly believe that we are nearly there.
 Right, let me hand over to Mark to run through the financials and then I'll be back to
 summarize and take Q&A a bit later.
 
-Mark Satchel
-
-{BIO 18275874 <GO>}
-
+Mark Satchel {BIO 18275874 <GO>}
 Thank you, Paul, and good morning, everybody. You'll have seen three adjusted profit
 figures in our release this morning. So before we go any further, let me make sure that we
 are all on the same page with regards to those. We reported a profit including Quilter Life
@@ -650,10 +644,7 @@ Finally, we have a very well capitalized balance sheet and I'm looking forward t
 a meaningful amount of cash back to shareholders.
 Now back to Paul.
 
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Thanks, Mark. Now, before I turn to our area of focus for 2020, let me share my
 perspective on the current operating environment. We've begun the year well but
 obviously the last couple of weeks have seen pretty turbulent markets. As we all try to
@@ -698,10 +689,7 @@ complete.
 Right, with that, let me open up for questions. Who is ready to go first? Andy?
 
 Questions And Answers
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thanks. It's Andy Sinclair from Bank of America Securities. Three from me, as usual,
 please. Firstly, really good to see the platform going live. I realize it's very early days, still
 on a bit of bizarre market, but I just wondered if you could give us any color on how the
@@ -713,10 +701,7 @@ insurance. You mentioned it was in place for Lighthouse but just wonder if you c
 us of Quilter's own approach for professional indemnity insurance and how the costs
 might change for that. Thanks.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay. Thanks, Andy. I think I'll take those. So adviser flows on the new platform versus off
 the new platform, too early to say. 22nd of February was when we -- that was the
 Page 13 of 19
@@ -747,10 +732,7 @@ Next question. Any other questions?
 
 Bloomberg Transcript
 
-Q - Ben Bathurst
-
-{BIO 17516248 <GO>}
-
+Q - Ben Bathurst {BIO 17516248 <GO>}
 Good morning. It's Ben Bathurst from RBC. First question is on the capital return. You
 mentioned that the Board will review the most effective and efficient means of carrying
 out that return. I just wondered, in light of the recent market sell-off and the current low
@@ -762,10 +744,7 @@ advisers where you had 30 complaints. I just wondered, on the remaining 50, is t
 anything different about that 50, those cases that you know of that would suggest that
 they are less likely to lead to the future complaint?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Too early to say. We've obviously reviewed the 30 and made provision accordingly. You're
 quite right to say that those 80 are the most sensitive. If I said that over 75% was from
 two advisers, so all the complaints we have relate to one adviser. So clearly we have to
@@ -773,10 +752,7 @@ review the other, not all of the other complaints related to that one adviser, b
 them are 75%. So I mean, I can't say you can exactly extrapolate but clearly there's more
 sensitivity within that population.
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 And then you had the capital return question. We've consulted with our shareholders in
 terms of what they most want to see in terms of capital return and really the
 overwhelming response that we have had from shareholders back when we consulted
@@ -794,18 +770,13 @@ Date: 2020-03-11
 been in closed period up until now, so we haven't been able to get going with it, but that
 should be commencing in hours or days.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 FINAL
 
 It really depends on how quickly we can get you back to your desks.
 
-Q - Ed Gunby
-
-{BIO 19879787 <GO>}
-
+Q - Ed Gunby {BIO 19879787 <GO>}
 Hi, it's Ed Gunby from Goldman Sachs. Just two from me. The first is, obviously we need
 to wait and see on the budget particularly with respect to pensions, but can you provide a
 sense of the flow composition in terms of pension transfers and consolidations versus
@@ -814,16 +785,11 @@ very early in terms of migrating assets, but you have been outsourcing assets du
 capabilities over recent years. So when should we expect to see the repatriation of some
 of those assets that have gone to other platforms over time?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay. Can I just check on the second question there? I got what you are saying, you were
 talking about pension transfers, I'm not sure I fully understood.
 
-Q - Ed Gunby
-
-{BIO 19879787 <GO>}
+Q - Ed Gunby {BIO 19879787 <GO>}
 
 Bloomberg Transcript
 
@@ -831,10 +797,7 @@ On the DC side, if we see changes to tax relief on pension contributions, how mu
 the assets are coming from transfers of pension pots that have been previously
 accumulated with other providers versus actual new money contributions.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Got it. Okay. So first of all, on the budget, obviously we'll await and see from the budget.
 We know the transfer, it is going to be a big spending budget on infrastructure, no doubt
 about that. I mean, I don't know what -- on the pension side, there has been talk about
@@ -869,10 +832,7 @@ FINAL
 
 Gurjit?
 
-Q - Gurjit Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit Kambo {BIO 6300383 <GO>}
 Hi, good morning. It's Gurjit Kambo from JPMorgan. A couple of questions. Firstly on slide,
 I think, number seven. You gave a little bit chart at the bottom where you have the gross
 sales of 3.1 billion and then split 1.5 billion and 1.6 billion with the Quilter platform and third
@@ -882,9 +842,7 @@ to understand is, as you start to see the Quilter UK platform becoming a bigger 
 that 3.1 billion, should that also increase that 65% going into Quilter Investors? Is that the
 expectation?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
@@ -896,19 +854,13 @@ because clearly this, we don't get the MI from a lot of other platforms, strange
 as to what's going into their solutions from our advisers. They don't have to give us that
 and guess what, they don't give us that. But clearly there is leakage there.
 
-Q - Gurjit Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit Kambo {BIO 6300383 <GO>}
 Yeah. And, Mark, just one question for you, just in terms of the operating profit margin
 sort of guidance, I think the quote is normalization from current levels. So is that saying
 that if we start to improve from where we are currently or if we stay static, let's say,
 6,000 FTSE?
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 If you said 6,000 FTSE, I mean, I think 27% of margin for us would be exceptionally
 challenging and frankly I don't think we'd be able to make up the shortfall in the
 production of -- that that would bring about from revenues. The guidance that we have
@@ -916,16 +868,10 @@ provided and I think we've consistently said this also when we provided the guid
 been sort of the market levels at that time, which generally, if you look back around about
 72, 73, 74 sort of FTSE levels.
 
-Q - Ed Gunby
-
-{BIO 19879787 <GO>}
-
+Q - Ed Gunby {BIO 19879787 <GO>}
 Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Further questions? Please, here in the front.
 
 Page 16 of 19
@@ -936,9 +882,7 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2020-03-11
 
-Q - Ben Williams
-
-{BIO 2556227 <GO>}
+Q - Ben Williams {BIO 2556227 <GO>}
 
 FINAL
 
@@ -948,10 +892,7 @@ you just talk us through where the value proposition is now and give us a sense,
 any areas where you think you need to take pricing a little bit further, or do you think you
 are really now where you need to be to capture the opportunity?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 The platform market is a evolving market. I mean, you've heard me say -- I will answer
 your question directly, Ben, but you've heard me say many times that the area of the
 value chain, if you will, which has got the greatest pricing pressure is the part furthest from
@@ -975,19 +916,13 @@ Yeah, I should say -- I should have said. I think we're having some problem on t
 line. So if anyone is on the phone line and you have got a question, would you just please
 run it through on an email and we'll catch it -- on the website.
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 We have a few questions coming on the web already, so I'll just highlight. David McCann
 from Numis has asked, with the GBP12 million provision on Lighthouse being about 30% of
 the price paid, does it lead to any changes in the way you assess adviser acquisitions and
 due diligence?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Well, David, look, clearly we will -- we are doing a review and I'm doing a review, not just
 of the cases we've had complaints and the population we've talked about, but also of the
 process of acquiring Lighthouse, to make sure if there are any lessons learned, we will
@@ -1010,10 +945,7 @@ those acquisitions.
 
 FINAL
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 Two questions from Greg Simpson from Exane BNP. First, he asks, adviser flows tend to
 be quite resilient during market weakness, but as far as where MiFID II has brought in a
 new rule, which requires advisers notify clients if their portfolio falls more than 10%. I
@@ -1022,24 +954,15 @@ the second question is, Cirilium Active funds seem to be underperfoming benchmar
 over three years. Can you talk through the drivers of it and does it have an impact on QFP
 and IFA behavior?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 So what are the three years?
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 Cirilium own performance is having an impact on adviser behavior.
 
 Bloomberg Transcript
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay. So, yes, under MiFID II, we have to inform clients if their portfolio has dropped by
 10% or more. So some of them have and we have informed clients so -- and that's all
 happened over the last 10 or 12 days, quite frankly. So, if that happens, it's a legal
@@ -1057,16 +980,10 @@ all of our new propositions Cirilium Blend. We have Cirilium Passive and our inc
 propositions. All of those, have done incredibly well and have been first quartile. So we
 have -- we are well diversified across our investment solutions base.
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 One more coming in.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay, one more coming in. Okay. If there isn't any more questions from the floor, then I'll
 take the wrap up there. Thank you very much for your time. And stay safe, keep well. See
 
