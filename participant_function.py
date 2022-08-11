@@ -14,6 +14,9 @@ def participants_list(df):
         if Participant_end_index == []:
             Participant_end_index = df.index[df.iloc[:,0] == 'Questions And Answers' ].tolist()
             Participant_end_index = [Participant_end_index[-1]]
+            if Participant_end_index == []:
+                Participant_end_index = df.index[df.iloc[:,0] == 'Q&A' ].tolist()
+                Participant_end_index = [Participant_end_index[-1]]
         else:
             Participant_end_index = [Participant_end_index[-1]]    
     # some transcript dont have 'Other Participants'
