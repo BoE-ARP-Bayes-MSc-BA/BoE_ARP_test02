@@ -22,10 +22,7 @@ Presentation
 
 Bloomberg Transcript
 
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Good morning, everyone. And you'll understand we are doing things a little differently
 today. But the broad format is similar to what we've done in the past. I'll walk you through
 the business highlights, Mark will then talk to the financial performance, and then we'll
@@ -280,9 +277,7 @@ everything we do.
 Right, let me hand over to Mark to run through the financials and then I'll be back to
 summarize and take Q&A.
 
-Mark Satchel
-
-{BIO 18275874 <GO>}
+Mark Satchel {BIO 18275874 <GO>}
 
 Bloomberg Transcript
 
@@ -576,9 +571,7 @@ that, assuming broadly stable markets, we expect our cost plans to offset expect
 revenue headwinds in the second half.
 And with that, let me hand back to Paul.
 
-Paul Feeney
-
-{BIO 17570862 <GO>}
+Paul Feeney {BIO 17570862 <GO>}
 
 Page 11 of 25
 
@@ -613,10 +606,7 @@ Bloomberg Transcript
 Our first question comes from the line of Andrew Sinclair from Bank of America. Please go
 ahead.
 
-Q - Andrew Sinclair
-
-{BIO 21847791 <GO>}
-
+Q - Andrew Sinclair {BIO 21847791 <GO>}
 Thanks, and good morning, everyone. Three from me as usual. Firstly just on advisor
 headcount, which is basically flat year-to-date. I totally get that it's a challenging backdrop
 in the last few months, but that's about a year now that headcounts barely moved. I just
@@ -633,10 +623,7 @@ wondered if we should be thinking about any particular changes strategy-wise wit
 change of Quilter Investors' CEO and has that resulted in any one-off boost to flows?
 Those three from me, thanks.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Page 12 of 25
 
 
@@ -658,9 +645,7 @@ lockdown where we couldn't meet any of them really or very few of them face-to-f
 But on a net basis that turned out as a handful positive.
 But Steve, do you want to?
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
+A - Stephen Gazard {BIO 21784069 <GO>}
 
 Bloomberg Transcript
 
@@ -677,17 +662,11 @@ number is where it is. But flip side of that is, we're beginning to see the coho
 through the Financial Adviser School, so we have 34 land through that. So again that's a
 good place for us to continue our focus on organic growth going forward.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay. Thank you, Steve. Divi and buyback, balance between the two, whether we should
 think about them separately, Mark?
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 Yes. So Andy, we pretty much have viewed the two of those independently in our sort of
 current assessments of this half year, but increasingly, I think as we get through more of
 the buyback and we step up the dividend prospects or everything else, I'm expecting that
@@ -713,10 +692,7 @@ Board considerations.
 
 FINAL
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 And then Quilter Investors, yes, Bambos is a great hire for us. I know Bambos well. We've
 worked together in the past -- I and Bambos before. So, but probably one of the biggest
 names in the multi-manager, multi-asset world in the UK. I think he was voted number one
@@ -730,10 +706,7 @@ We've built a great business, great capabilities with great investors in Quilter
 and we've now just managed to attract one of the best investors, multi-manager
 investors in the market to lead that business for us.
 
-Q - Andrew Sinclair
-
-{BIO 21847791 <GO>}
-
+Q - Andrew Sinclair {BIO 21847791 <GO>}
 Okay. Thank you.
 
 Operator
@@ -743,10 +716,7 @@ Bloomberg Transcript
 And the next question comes from the line of Greg Simpson from Exane. Please go
 ahead.
 
-Q - Greg Simpson
-
-{BIO 1498567 <GO>}
-
+Q - Greg Simpson {BIO 1498567 <GO>}
 Good morning. Thank you for the presentation. Just a few questions on my side. The first
 would be on independent financial advisers, you mentioned advisers furloughing staff. It's
 a tough year for revenues, regulatory regulatory costs are up. I'm just wondering if you're
@@ -761,10 +731,7 @@ costs? And more broadly, once the new platform is fully live and 100% of assets 
 there, do you think it will be more or less profitable in terms of margin to run the new
 platform versus your existing kind of in-house solution? Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Well, I'm going to take the first one on IFAs looking to sell, maybe let Steve say a word,
 Steve Gazard. And then I'm going to hand over to Steven Levin on the dual-running costs.
 But I can tell you straight away, we expect it to be more profitable when we have our new
@@ -796,10 +763,7 @@ platform would be more profitable?
 
 Bloomberg Transcript
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
-
+A - Stephen Gazard {BIO 21784069 <GO>}
 Yes, I'll say a bit then really talk about the numbers, if you want to elaborate further. But
 there are dual-running costs. We are having those today already, but they're not material
 at the moment because only as 8% of the assets have been migrated with the first
@@ -813,10 +777,7 @@ just after the migration. But all of those dual-running costs are included in th
 that we've given you today. So, the forecast that we have given includes dual-running
 costs.
 
-A - Steven Levin
-
-{BIO 18803363 <GO>}
-
+A - Steven Levin {BIO 18803363 <GO>}
 Yes. So Greg, I probably don't have too much to add to what Stephen and Paul already
 said. Just to reiterate, the dual-running costs are included within the forecast that we
 provided. It effectively costs around GBP3 million a month for each month that we had
@@ -853,20 +814,14 @@ servicing that platform, those costs come down significantly from the ones that 
 experienced today. So it's a little bit of a change in the mix of our underlying cost base
 that will come about as a consequence of that.
 
-Q - Greg Simpson
-
-{BIO 1498567 <GO>}
-
+Q - Greg Simpson {BIO 1498567 <GO>}
 Great, thank you. That's very clear. Can I just have -- can I have a quick follow-up on that?
 Just when you say stable markets in the presentation and release a few times. Do you
 mean 0% in terms of assumption or is it kind of small positive, just to check.
 
 Bloomberg Transcript
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Well, it's -- you're probably getting down into a level of detail there, that can largely get
 locked in the roundings at the moment. But I mean, I am expecting -- the main thing for us
 is to have a stable environment where we expected the market to probably be increasing
@@ -875,19 +830,13 @@ recovery that FTSE equivalent is back to 7,500 or anything like that. But it's c
 something that's going to be hopping around a whole lot or something that's declining,
 sort of a slight and steady improvement is what I'd be referencing within that.
 
-Q - Greg Simpson
-
-{BIO 1498567 <GO>}
-
+Q - Greg Simpson {BIO 1498567 <GO>}
 Okay, thank you.
 
 Operator
 And the next question comes from the line of Jens Ehrenberg from Citi. Please go ahead.
 
-Q - Jens Ehrenberg
-
-{BIO 20928561 <GO>}
-
+Q - Jens Ehrenberg {BIO 20928561 <GO>}
 Hi, good morning guys. Thanks very much for the update and for taking my questions. A
 few from my side, if I may. So obviously, the platform migration is slightly delayed, I
 appreciate the majority should be on platform towards the end of this year. Just that -there seems to be quite a growth opportunity with the new platform. So just to confirm,
@@ -916,10 +865,7 @@ affinity contract. Although I imagine it might be quite tricky in the current en
 COVID to go after that. What's your view on that? Will you target that right after the
 completion of the integration? Yes, how do you think about that? Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay, thank you, Jens. Probably, I'm going to turn over to Steven, Steven Levin for the first
 one on new advisory coming on the platform. On IFAs within our own adviser base
 converted into RFPs, I'll hand over to Steve Gazard. On Lighthouse impairment, I'm going
@@ -928,10 +874,7 @@ Gazard can talk on potential for affiliate marketing post that. So Steven?
 
 Bloomberg Transcript
 
-A - Steven Levin
-
-{BIO 18803363 <GO>}
-
+A - Steven Levin {BIO 18803363 <GO>}
 Yes. On the new advisers, the first thing to say is that actually, I mean, given the size and
 age of our business, there is actually relatively few new advisors that can advice that
 we've never seen before, because as we've said, we've got about 8,000 adviser firms
@@ -953,10 +896,7 @@ wherever, either stuff they've written off from clients that are quite already o
 platform, but the growth ones are included in the next migration. So we are optimistic that
 we'll see benefits from that as soon as the second migration is done.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay, thank you. So I'm handing over to Steve Gazard, do you want to take the point
 Steve on IFAs and converting to RFPs within our --
 
@@ -968,9 +908,7 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2020-08-11
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
+A - Stephen Gazard {BIO 21784069 <GO>}
 
 FINAL
 
@@ -987,9 +925,7 @@ on hold. But we're beginning to see that ease back up to the levels that it was 
 through virtual mediums like Zoom and GoToMeeting, et cetera. So we're confident that
 that remains the kind of strong source of ongoing leads for us going forward.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
@@ -1056,10 +992,7 @@ Bloomberg Transcript
 (Operator Instructions) Our next question comes from the line of Gurjit Kambo from
 JPMorgan. Please go ahead.
 
-Q - Gurjit Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit Kambo {BIO 6300383 <GO>}
 Hi, good morning everybody. Thanks for the presentation. I have three questions. Firstly in
 terms of the migration, you've done, so the 8% of assets under administration that
 already moved over, any sort of commentary around how that's gone sort of retention
@@ -1073,10 +1006,7 @@ there is a negative other revenue of minus 2. I know it's a small number, but I 
 to know why it was sort of a negative number rather than a positive? So those are the
 three questions.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay, thank you, Gurjit. Well, I'm handing over obviously to Steven Levin to give you some
 commentary on the 8% migration. But I think, I know Steven can talk about those firms that
 are using our new platform and what their experiences.
@@ -1089,9 +1019,7 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2020-08-11
 
-A - Steven Levin
-
-{BIO 18803363 <GO>}
+A - Steven Levin {BIO 18803363 <GO>}
 
 FINAL
 
@@ -1117,26 +1045,17 @@ pleased with the results that we've had from the first migration.
 
 Bloomberg Transcript
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay, so good. Second question was advisers gross to net. We've hired about 106. We're
 standing at about 1,108 [ph] restricted financial planners, so on a net basis there is a
 handful more. So -- and Steve Gazard, do you want to just take up what's the --
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
-
+A - Stephen Gazard {BIO 21784069 <GO>}
 Yes, mixture of natural attrition in that space that we'd expect, but also some of our focus
 on that kind of low producer population and encouraging those either to kind of increase
 their productivity through our support or exit.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay, and then Gurjit, into the detail on the other revenue line on the platform, look, that
 one historically, something it was plus 2 last year and it's minus 2 this year. That one will
 pick up some of the sort of more esoteric revenue movements, and in particular, there'll
@@ -1147,10 +1066,7 @@ have a five-day settlement period. And with the extreme market volatility that w
 over the back end of February and beginning of March period, we had some breakage
 costs that we needed to incur on that. So that's effectively what's coming through there.
 
-Q - Gurjit Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit Kambo {BIO 6300383 <GO>}
 Page 20 of 25
 
 
@@ -1167,10 +1083,7 @@ FINAL
 
 As there are no further phone questions, I'll hand it back for web questions.
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 We have a -- a few questions have come in on the website. So let me just call those out
 and then we can deal with those. The first is from Ben Bathurst with RBC. He has two
 questions. The first is, at the Q1 stage, you highlighted transfers out from the platforms in
@@ -1181,19 +1094,13 @@ greater disruption to smaller scale providers that might mean you can be opportu
 terms of bolt-on deals in the aftermath and has this played any part in your more cautious
 approach for the first half dividend?
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 Okay. Sorry. Well, I'll pass to Steven Levin on lower outflows in the platform market. And
 then I'll take the second one in terms of opportunities.
 
 Bloomberg Transcript
 
-A - Steven Levin
-
-{BIO 18803363 <GO>}
-
+A - Steven Levin {BIO 18803363 <GO>}
 Okay. Thanks, Paul. Yes, So what we have seen in the first quarter and the second quarter,
 and particularly, in the second quarter, after the lockdown, I mean, the markets really
 started getting volatile, we've seen outflows fall off quite dramatically. We actually look at
@@ -1214,10 +1121,7 @@ saw that sort of behavior and that did lead to a reduction in client-led outflow
 to ease up a little bit as markets are a bit more stable, but not actually back to sort of
 former levels at all. So that is disappointing.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Page 21 of 25
 
 
@@ -1246,10 +1150,7 @@ prudent Board and a prudent Executive Management team and it's simply that it's 
 to do with the fact that we need capital for acquisitions or anything else. We've got plenty
 of capital.
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 I think we had a further question on the lines, can we hand back to the lines?
 
 Bloomberg Transcript
@@ -1258,27 +1159,18 @@ Operator
 We have a follow-up question from the line of Andrew Sinclair from Bank of America.
 Please go ahead.
 
-Q - Andrew Sinclair
-
-{BIO 21847791 <GO>}
-
+Q - Andrew Sinclair {BIO 21847791 <GO>}
 Hi, guys. Just a quick one from me. It was just on the Financial Adviser School. Just
 wondered if you gave us an update on how many people are now in the Financial Adviser
 School and how many new students you're expecting to take in over the next 6 to 12
 months? Thanks.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay, I'll hand over to Steve, Steve Gazard. But I think we've got about 148 going to the
 School at the moment. I think we've had about 300 sign up in this crisis to test -- to check
 out whether this is for them.
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
-
+A - Stephen Gazard {BIO 21784069 <GO>}
 Yes, I don't need to add. Yes. So I mean, we have 34 [ph] who have come through that so
 far this year. We've got another 31 [ph] applications in process and actually what we've
 done, as Paul alluded to, as well as the kind of 100-plus that we already have in that kind
@@ -1293,18 +1185,12 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2020-08-11
 
-Q - Andrew Sinclair
-
-{BIO 21847791 <GO>}
-
+Q - Andrew Sinclair {BIO 21847791 <GO>}
 Thank you.
 
 FINAL
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 Okay. I'll pick up another web question before we go back to see if there is more from
 the lines. There is two questions from Rahim Karim at Liberum, which has slightly been
 touched on, but I'll read them out, anyway. The first is, you mentioned the learnings from
@@ -1314,20 +1200,14 @@ is this expected to be done over one weekend or over a phased basis over the
 remainder of the second half of 2020? Can you provide any color behind the decision to
 go this way?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay. Well, I think these are both for Steven Levin. So the first one is what specific
 learnings were there from the migration? And secondly will we be doing the second
 migration over a weekend or phasing over a longer period?
 
 Bloomberg Transcript
 
-A - Steven Levin
-
-{BIO 18803363 <GO>}
-
+A - Steven Levin {BIO 18803363 <GO>}
 Yes. So, in terms of the specific learnings, I've said, there were some things around
 correspondence where we've made some tweaks to the correspondent, sometimes
 about the frequency of something that we've been sending out. There has also been
@@ -1350,10 +1230,7 @@ always done over a weekend and it's normally done at the weekend that will give 
 the least number of inflight transactions, which is the best possible sort of operational
 time to do it.
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 Okay. And just on the decision behind how we're doing migration, Steven, is it all in go?
 [ph]
 Page 23 of 25
@@ -1364,38 +1241,25 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2020-08-11
 
-A - Steven Levin
-
-{BIO 18803363 <GO>}
-
+A - Steven Levin {BIO 18803363 <GO>}
 Yes, all in one go.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 FINAL
 
 (Multiple Speakers)
 
-A - Steven Levin
-
-{BIO 18803363 <GO>}
-
+A - Steven Levin {BIO 18803363 <GO>}
 Yes, it is over a one weekend, each migration. Yes.
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 Okay. The final question that's come through on the web from not says from who, but
 anyway, so -- and it's on adviser productivity is, as you've spoken about improving adviser
 productivity, what specific metrics do you look at here to measure this? And can you
 provide some detail of these as future KPIs?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
@@ -1407,33 +1271,22 @@ we have in Quilter is stemming that leakage and capturing of far higher proporti
 adviser productivity.
 But, Steve, is there any other things that we are going to bring [ph] out?
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
-
+A - Stephen Gazard {BIO 21784069 <GO>}
 I mean, I think clearly the advice business we're looking at gross productivity as well as
 that, so yes, increasing their gross productivity as to the general amount that they're
 providing. But yes, absolutely our key metric is about the capture of that kind of leakage
 at the moment and that integrated flows.
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 Okay. I think that's it from the web. Any last calls coming through on the lines?
 
 Operator
 There are no further questions on the phone.
 
-A - John-Paul Crutchley
-
-{BIO 1911497 <GO>}
-
+A - John-Paul Crutchley {BIO 1911497 <GO>}
 Okay, I'll then hand back to you Paul just to say a few closing words.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 Page 24 of 25
 
 
@@ -1456,10 +1309,7 @@ incredible place to deliver into 2021.
 So thank you for all your support. Thank you for your listening in and your questions this
 morning. And then we'll keep delivering for you.
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 Thank you.
 
 Operator
