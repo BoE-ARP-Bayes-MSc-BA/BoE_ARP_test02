@@ -22,10 +22,7 @@ MANAGEMENT DISCUSSION SECTION
 
 Bloomberg Transcript
 
-Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+Paul W. Feeney {BIO 17570862 <GO>}
 Welcome to our first results presentation as a listed company. We've deliberately started
 a bit early this morning. We know that one of our competitors is reporting a little bit later,
 and we wanted to make sure that those of you who cover them as well as us are able to
@@ -403,10 +400,7 @@ for it. Conservatism is what you would expect from a newly-listed company with a
 areas to conclude and resolve.
 And with that, let me hand you back to Paul.
 
-Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+Paul W. Feeney {BIO 17570862 <GO>}
 Thanks, Tim. So, some clear messages there, which highlight that these are a good set of
 results. The business is very much where we wanted and expected it would be at this
 stage. We've always been clear with investors that while we think that Quilter's story is a
@@ -448,10 +442,7 @@ Q&A
 
 Bloomberg Transcript
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thanks. It's Andy Sinclair from BoFA Merrill Lynch. Three as usual for me. Firstly, on the
 number of Restricted Financial Planners. That's up to 1,590 at the end of the period. Just
 wondering if you can give us thoughts on H2 growth – and growth outlook there if still
@@ -461,10 +452,7 @@ know how much is going in H1, what your expectations are still for the run up (0
 for that. And thirdly, just on DB to DC transfers. I think you said previously about a third of
 pensions' growth flows. Is it still around that level for H1? Thanks.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Okay. Thanks, Andy. Three questions there. 1,590 Restricted Financial Planners at the half
 year, up about 2% since beginning of the year. Decent showing. Not as good as I'd like it
 to be quite frankly. And we know that we (00:29:11) need to get moving on that for the
@@ -474,9 +462,7 @@ focused on it. Institutional pensions, if you look at we were...
 A - Timothy James William Tookey
 I know the answer.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Page 9 of 18
 
 
@@ -493,25 +479,16 @@ FINAL
 
 You want me to know the answer.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Well, I know then.
 
 A - Timothy James William Tookey
 You know the answer...
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 What do you think it is? What do you think?
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 (00:29:26)
 
 A - Timothy James William Tookey
@@ -519,26 +496,17 @@ A - Timothy James William Tookey
 
 Bloomberg Transcript
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 So, if you look at what we had six months ago, what we have now, you'll figure that would
 be a pretty simple sum. Thanks.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 DB to DC was about 25% of our platform flows.
 
 A - Timothy James William Tookey
 Gross. Gross flow.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 The gross flow – our platform gross flows, yeah. Push it down a little bit on the same time
 last year, which is kind of what we'd expect. And this, Andy, as we all know, the industry
 and the regulator, we've got our training wheels on, okay? This is going to be a
@@ -547,10 +515,7 @@ secured framework. So, whether that means paying to Cheviot (00:30:12) what happ
 to contingent charging and qualification, we're all trying to put that framework in place. So,
 I would expect this to ebb and flow a bit over the next year or two.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 (00:30:24). Thank you.
 Page 10 of 18
 
@@ -560,18 +525,12 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2018-08-08
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Okay. Please.
 
 FINAL
 
-Q - Adam Uddin
-
-{BIO 20403377 <GO>}
-
+Q - Adam Uddin {BIO 20403377 <GO>}
 Thank you very much. Adam Uddin from Goldman Sachs. Just three questions from me
 please. The first was just on the operating margins. So, as you mentioned, it was
 impacted by a couple of one-offs in the first half. So, how might it develop for the full
@@ -585,10 +544,7 @@ by organic means going forward? Thanks.
 A - Timothy James William Tookey
 Do you want to take the first one? I'll take the (00:31:05)
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Yeah. Sure.
 
 Bloomberg Transcript
@@ -633,18 +589,13 @@ we're still making relatively small acquisitions, but in the – particularly (0
 Private Client space, and the growth of our Financial Adviser School and all of those levers
 are available to us, and we expect to be pulling all of them.
 
-Q - Adam Uddin
-
-{BIO 20403377 <GO>}
-
+Q - Adam Uddin {BIO 20403377 <GO>}
 Thank you very much.
 
 A - Timothy James William Tookey
 Okay.
 
-Q - Gregory Simpson
-
-{BIO 18850594 <GO>}
+Q - Gregory Simpson {BIO 18850594 <GO>}
 
 Bloomberg Transcript
 
@@ -663,10 +614,7 @@ Okay. I believe (00:34:14)
 A - Timothy James William Tookey
 (00:34:16)
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Why don't you (00:34:16) that one?
 
 A - Timothy James William Tookey
@@ -694,10 +642,7 @@ sort of 13%, 14%, 15%, low-mid-teens-percent for the company as a whole. So that
 be the right kind of space for you to be thinking about. But if I do have an update to give
 on that, then it would be at the time of the March results.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Okay. In terms of advisor tenure and productivity, Greg. And we're very pleased with the
 fact that we've seen advisor productivity pick up to £1.8 million per advisor from £1.6
 million. Don't forget, this is net. We look at net flow for our advisors, not gross flow. Some
@@ -725,10 +670,7 @@ conservative company, we want to let the market know there could be some impact
 (00:37:12) 18 months down the line on the QC side. But by that time, we expect QC to
 have built up its our investment management base again. Okay. Gurjit?
 
-Q - Gurjit S. Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit S. Kambo {BIO 6300383 <GO>}
 Hi. Good morning. Gurjit Kambo, JPMorgan. Just a couple of questions. Firstly, do you
 charge any exit fees on your platform? Obviously, that's one of the things the FCA talked
 about in its platform market study. Secondly, just on client cash, and how do you deal with
@@ -745,10 +687,7 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2018-08-08
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Okay. Tim, I know that. (00:37:54) You take the third one?
 
 A - Timothy James William Tookey
@@ -758,10 +697,7 @@ FINAL
 (00:37:55) third one I didn't hear, because I was thinking about the answer to the second
 one.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Okay. The Quilter Life Assurance, other revenue just running off, is that just...
 
 A - Timothy James William Tookey
@@ -769,10 +705,7 @@ Oh, no. We had some particular claims in the protection – some of the protecti
 products. Now, you've finally look at narrative halfway down at the right-hand-side of the
 page. I'll get you the page number. I'll give it to you afterwards.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Yeah. Okay. So, Gurjit on the first one, exit fees in our platform, no. We don't charge any
 exit fees in our platform. Holding client cash on our platform and charges that – we're very
 fortunate not to be able to do that. So, our new platform will be able to do that, but at
@@ -780,23 +713,14 @@ present -platform does not hold cash on the platform...
 
 Bloomberg Transcript
 
-Q - Gurjit S. Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit S. Kambo {BIO 6300383 <GO>}
 Okay. Thank you.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 ...so not an issue for us.
 Please, gentleman here.
 
-Q - David L. McCann
-
-{BIO 15885639 <GO>}
-
+Q - David L. McCann {BIO 15885639 <GO>}
 Good morning. Dave McCann from Numis. Just in terms of the change in net flows Q2 on
 Q1 almost slowdown perhaps you talked around (00:38:50) in the context I think of the
 Wealth Solutions business, the DB to DC slowing. But it looks like across the business
@@ -805,10 +729,7 @@ gross inflows slowing down, but also implicitly the gross outflow is ticking (00
 So, maybe if you could provide a bit more color by division on what's caused people to
 put money – less money and take a bit more out? Thanks.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 I think we're just – I think markets do ebb and flow a bit. I mean, we have seen across the
 industry. If you look closely, our industry competitors who've announced, that Q2 has been
 
@@ -849,10 +770,7 @@ transparency without recognizing the strong progress made with everything else g
 the business the time of separation and a listing. We're being very transparent and very
 balanced in our comments, so.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Please, again.
 Okay. Yes. (00:41:27) color there. Maybe just a follow-up on that. I mean, did you see a
 kind of weakening over the quarter and also – I guess, have things changed, I guess, since
@@ -863,10 +781,7 @@ somewhat. But quite frankly, we've seen what we kind of would expect in July and
 which is a somewhat slower period than we would expect in other parts of the year. So,
 mainly as July we've seen that, but nothing that we wouldn't really expect. Please, Arnaud.
 
-Q - Arnaud Giblat
-
-{BIO 15145619 <GO>}
-
+Q - Arnaud Giblat {BIO 15145619 <GO>}
 Hi. It's Arnaud Giblat from Exane. Two questions, please. First on the cash flow conversion,
 I think it's in the low 80%. Could you help us – give a bit more color there in terms of
 providing a bridge as to how you go from 100% earnings to 80-odd-percent cash flow
@@ -884,9 +799,7 @@ Date: 2018-08-08
 A - Timothy James William Tookey
 So, if I kick off.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
+A - Paul W. Feeney {BIO 17570862 <GO>}
 
 FINAL
 
@@ -952,10 +865,7 @@ shareholders win, customers win. So that's where actually revenue flows in the h
 actually benefited us on the revenue margin side and income. Does that give you enough
 color?
 
-Q - Arnaud Giblat
-
-{BIO 15145619 <GO>}
-
+Q - Arnaud Giblat {BIO 15145619 <GO>}
 Sure. Thanks.
 
 A - Timothy James William Tookey
@@ -963,10 +873,7 @@ Thank you. Sorry. That's probably your answer (00:46:25).
 
 Bloomberg Transcript
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 That's okay (00:46:25). Any more questions? Okay. We have some from the webcast, I
 think.
 
@@ -977,10 +884,7 @@ the sustainability of that in the long-term for the business. And then, secondly
 from Ed Houghton at Bernstein asking about Quilter Investors' one year performance and
 whether that's impacting the flows into the business.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Okay. Heritage cost down 14% year-on-year. So quickly (00:47:08) . But basically, I think
 Steve Levin who runs the UK Platform for us and the Heritage business has done a great
 job of being able to ensure we manage cost between the Heritage business and the UK
@@ -1005,10 +909,7 @@ where we can and try and minimize the impact that we have on the business from i
 
 FINAL
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 Yeah. One-year performance, yeah, and we're focused on it. We've seen the number of
 our – a few of our portfolio, particularly in Q1 more than Q2 miss a beat a little bit overly
 cautious and – but quite frankly, they're multi-asset business. It doesn't take an awful lot –
@@ -1031,10 +932,7 @@ Bloomberg Transcript
 A - Timothy James William Tookey
 ...if not before.
 
-A - Paul W. Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul W. Feeney {BIO 17570862 <GO>}
 We'll be on the road a bit before then obviously. So, we'll see you and your clients before
 then. Thanks very much, everybody.
 

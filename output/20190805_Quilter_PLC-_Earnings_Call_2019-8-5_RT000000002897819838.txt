@@ -23,10 +23,7 @@ Johnny Vo
 Bloomberg Transcript
 
 Presentation
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Good morning, everyone. Welcome to those of you, who are with us in the room today
 and to those of you who have joined us on the webcast and on the phone lines. We'll
 follow our usual format this morning. I'll give you my perspective on our solid first-half
@@ -246,10 +243,7 @@ needs. And our in response to research, specific research with our clients that 
 received through our advice business.
 Right now, let me hand over to Mark to walk you through the details financials. Mark?
 
-Mark Satchel
-
-{BIO 18275874 <GO>}
-
+Mark Satchel {BIO 18275874 <GO>}
 Thanks, Paul. And good morning, everybody. As well as covering the solid financial outlook
 for the first six months, I want to spend a bit of time looking at costs where, as Paul has
 said, we have delivered another strong performance. But a word first on the presentation.
@@ -497,10 +491,7 @@ Let me no hand back to Paul.
 
 FINAL
 
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Thank you, Mark. Now before we open up for questions, let me summarize. It's been a
 good half for profitability and strategic execution, both organically through optimization
 and inorganically through acquisitions and disposals. So where are we focused in the nearterm?
@@ -535,10 +526,7 @@ Questions And Answers
 Operator
 (Question And Answer)
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thanks. This is Andrew Sinclair Bank of the Merrill Lynch. Three for me, as usual if that's
 okay. Firstly on Lighthouse, (Inaudible) not sitting there quite the pickup from number of
 Page 10 of 17
@@ -563,10 +551,7 @@ the platform to be complete and development by this time next year. Could you cl
 What do you mean by complete is that including switch off of legacy systems? And how
 much buffer is there in therefore selection given migration when those etc.
 
-A - Paul Simpson
-
-{BIO 15955718 <GO>}
-
+A - Paul Simpson {BIO 15955718 <GO>}
 Okay. Well, I'm going to take number two and three. But I'm going to ask Andy here to
 take number one, on Lighthouse some head of our of good financial planning should. And
 did you want to stand up and just take the first one Lighthouse color on RFPs; we've had a
@@ -575,10 +560,7 @@ our face.
 
 Bloomberg Transcript
 
-A - Andy Thompson
-
-{BIO 21347296 <GO>}
-
+A - Andy Thompson {BIO 21347296 <GO>}
 And have to answer say two main divisions of Lighthouse as Paul alluded to say the
 national side of that business, which was restricted so in other words when they come
 across to us, they're automatically, restricted the other side about those the other side is
@@ -589,10 +571,7 @@ proposition to them. And at that point engaging with them as to whether actually
 on to our restricted proposition is better for their customers and themselves. So that's
 something we'd expect to really see take hold in the first half of next year.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Okay. Thanks, Andy. How did you sell, obviously, we're delighted with that as you can tell.
 Andy international we've done a lot of work to reshape our international business focus it,
 on bigger core markets will come out of 83 markets in international. And you've seen that
@@ -619,25 +598,16 @@ the switch off of the of the old platform.
 
 FINAL
 
-A - Paul Simpson
-
-{BIO 15955718 <GO>}
-
+A - Paul Simpson {BIO 15955718 <GO>}
 But when you showed this the switch of most of that just gets decommissioned over a
 relatively short period of time. I mean for all intention purposes as soon as it's migrated
 everything will be turned off there. And will that won't be long process. But that's the
 intention, that's what we're trying to achieve it.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thanks.
 
-A - Paul Simpson
-
-{BIO 15955718 <GO>}
-
+A - Paul Simpson {BIO 15955718 <GO>}
 Okay.
 
 A - Unidentified Speaker
@@ -645,44 +615,29 @@ Johnny.
 
 Bloomberg Transcript
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Johnny VO from Goldman Sachs. Just three questions. The first question, just in regards
 to had a blank actually. Just in regards to at the moment you're telling your own advisers
 in terms of directed flows potential on the platform to use alternate platforms. How much
 flows are going to alternate platforms from your adviser? And what's your recapture
 ability once your platform comes back online?
 
-A - Andy McGlone
-
-{BIO 18492549 <GO>}
-
+A - Andy McGlone {BIO 18492549 <GO>}
 Sure.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 The second question, just relates to Quilter Cheviot. I guess, yes, you're lost advisers and
 therefore you've lost assets, but often new advisers, you've got on, how much assets are
 accompanying those advisers. And actually that my questions.
 
-A - Andy McGlone
-
-{BIO 18492549 <GO>}
-
+A - Andy McGlone {BIO 18492549 <GO>}
 Okay. Thanks for giving me the extra bit of time there to think about it. So yeah, we are
 allowing our advisers to use other platforms at the moment, because as we know existing
 platform doesn't do all the things that we would like it to do. We are you could either call
 it, leaking or deliberately allowing around 50% of our flows to go to other platforms at the
 moment.
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Okay.
 
 Page 12 of 17
@@ -693,9 +648,7 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2019-08-05
 
-A - Andy McGlone
-
-{BIO 18492549 <GO>}
+A - Andy McGlone {BIO 18492549 <GO>}
 
 FINAL
 
@@ -724,26 +677,17 @@ you remain within the solvency II regime. And is that something you might look a
 potentially paying down, if you're able to get out storms you to should that be able to
 have.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Thanks, Ben. I think those are (Inaudible) to for my CFO. Mark?
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 But I want sufficient in terms of the debt. I mean, they're called form part of the
 consideration that our board deliberates over the next little while. So, haven't got a
 certainty for come out of a solvency II regime, before Quilter impact from that
 perspective. But there's no, we don't have any clear direction or not providing a clear
 direction on that we'll be what gets deliberated over the next little while.
 
-A - Andy Thompson
-
-{BIO 21347296 <GO>}
-
+A - Andy Thompson {BIO 21347296 <GO>}
 In terms of our solid situation, we never given a ratio target that we aspire to have
 guarded that we expect to move down. If you remember at the time of our listing we had
 pre-funded a lot of the capital commitments including the PTP expenses that we still
@@ -761,9 +705,7 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2019-08-05
 
-Q - Gregory Simpson
-
-{BIO 18850594 <GO>}
+Q - Gregory Simpson {BIO 18850594 <GO>}
 
 FINAL
 
@@ -781,37 +723,23 @@ there, because presumably before you were targeting more than 2%point. Preventin
 business QLA, because QLA was in runoff if that makes sense.
 Okay, kind of maybe Mark, would help me out there, but I will still--
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 I understand the question. Alright?
 
-Q - Gregory Simpson
-
-{BIO 18850594 <GO>}
+Q - Gregory Simpson {BIO 18850594 <GO>}
 
 Bloomberg Transcript
 
 Okay.
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 I mean, if you understand the answer, but I like it. All right and do that one then we're still
 targeting two and two.
 
-Q - Gregory Simpson
-
-{BIO 18850594 <GO>}
-
+Q - Gregory Simpson {BIO 18850594 <GO>}
 Okay, but from bit QLA.
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 That means, but I mean effectively out of QLA. So what you've also got to think of is what
 part of the optimization benefits are going to be within the QLA cost-based. So you're
 writing that it's in running off or getting less. But a lot of that's really actually gets
@@ -819,10 +747,7 @@ relocated within the rest of the group. So in our assessment of the actual optim
 benefits, we expect to obtain. You've clearly got a smaller chunk going on over this the
 two boards you have set so it ends up being neutral. So when get chunk about that.
 
-Q - Gregory Simpson
-
-{BIO 18850594 <GO>}
-
+Q - Gregory Simpson {BIO 18850594 <GO>}
 Okay. DB to DC the GBP0.4 billion is the entire Quilter. Not just the platform. QLA
 proceeds we close the deal Sunday evening. We are going to the board is minded to
 return and very meaningful and meaningful amount of net proceeds to shareholders.
@@ -841,16 +766,10 @@ mechanism of how we return funds?
 
 FINAL
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 (Inaudible) Thanks, Greg.
 
-Q - Gurjit Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit Kambo {BIO 6300383 <GO>}
 Hi. Good morning, it's Gurjit Kambo, JP Morgan. Are just two questions. Firstly, there have
 obviously been a lot of issues in the Solvency about the liquidity not in (Inaudible) more
 asset management industry. But how do you think about the due diligence that you do on
@@ -861,10 +780,7 @@ broadly.
 
 Bloomberg Transcript
 
-A - Andy Thompson
-
-{BIO 21347296 <GO>}
-
+A - Andy Thompson {BIO 21347296 <GO>}
 Okay. We take liquidity very seriously. In fact, we did have quite a large mandate with
 Woodford [ph] investment, which we sold out in April, before the quite a long time before
 the suspensions. But we stipulated, they could not hold liquid assets. So, we do take this
@@ -874,10 +790,7 @@ funds gates. And so, we manage liquidity very carefully. We do have poor symptom
 chief executive of culture investors here with us, but do you want to contradict me on
 that?
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 You don't know, obviously, we're offering multi-asset solutions that are daily dealing. So
 our liquidity planning, which we actually bolstered as part of the Brexit planning was really
 looking at this matter. So a very bad outcome for our clients is if our solutions are of a
@@ -910,18 +823,13 @@ FINAL
 Operator
 Any further -- Johnny. (Inaudible)
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 Exactly, how I remember my third question. Just I guess the question is when you sold
 QLA. QLA from a cash perspective probably exceeded the profit perspective. And so it
 probably helped from a dividend. Reconciling that with your dividend walk and the payout
 ratio, how do you reconcile that give you this out of this business?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
@@ -935,10 +843,7 @@ Secondly, board is very minded of this Johnny that-- that's why we've said, we p
 mechanisms funding return mechanisms, which protect DPS and stuff like that. But what
 do you want to tell me?
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 I mean that the remaining businesses we have pretty much what you see coming through
 in profit is what the cash generation is. And other than increases perhaps in the capital
 requirements as business groups businesses grow. The rest of it is distributable so the
@@ -966,10 +871,7 @@ Date: 2019-08-05
 
 FINAL
 
-A - Andy McGlone
-
-{BIO 18492549 <GO>}
-
+A - Andy McGlone {BIO 18492549 <GO>}
 So, I was asked how important this for the company to maintain the company's cheer to
 debt ratings as investment grade? I think I've got a call with the bondholders due to
 tomorrow. You'd have noted that (Inaudible) the arctic on the back of our strategic review

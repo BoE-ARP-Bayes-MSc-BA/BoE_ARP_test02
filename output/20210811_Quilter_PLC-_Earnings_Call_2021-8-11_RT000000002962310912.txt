@@ -25,10 +25,7 @@ Bloomberg Transcript
 Nicholas Herman
 
 Presentation
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Hello, and good morning, everyone. Thank you for taking the time to join us this morning
 for our Interim Results Presentation. Hopefully, when we next present, we won't be limited
 to a virtual format, and I look forward to meeting you in person. In the meantime, I hope
@@ -202,10 +199,7 @@ complete our existing capital return program of this year assuming market dynami
 And finally, we will complete the sale of Quilter International before year end. And with
 that, let me hand over to Mark to walk through the financials.
 
-Mark Satchel
-
-{BIO 18275874 <GO>}
-
+Mark Satchel {BIO 18275874 <GO>}
 Thanks, Paul, and good morning, everyone. As Paul has said, we are pleased with our
 financial performance in the first half. I'll start with the snapshot of how the total business
 has performed including Quilter International, then I'll drill down into the performance of
@@ -417,10 +411,7 @@ by the end of the year. And with that, let me hand back to Paul to wrap up.
 
 Bloomberg Transcript
 
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Thank you, Mark. Before I open up for questions, let me just conclude with a few key
 messages. These results have demonstrated our continued ability to deliver strong topline growth and sharply improve flows with more to come. We've created a highly scalable
 business that will drive operating leverage. We've got both a strong balance sheet and a
@@ -434,10 +425,7 @@ Operator
 Thank you. (Operator Instructions) Our first question comes from the line of Andrew
 Sinclair of Bank of America. Please go ahead. Your line is open.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thanks. Good morning, everyone. I have three for me, if that's okay? Firstly, just on
 financial advisor numbers and of something we spoke very often. You've talked about
 returning to net growth from 2022, which is great to hear, but really just want to ask, what
@@ -467,9 +455,7 @@ some of your own advisors move to use the platform for the first time and the ne
 platform gives a bit more opportunity, just could you give us a little bit more color on
 what's achievable here for your own advisors? Thanks.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
@@ -520,16 +506,10 @@ journey with us on this, we've had to say goodbye too. What that means, we've go
 more to invest with those advisors and those advisor firms that are on the journey with us
 and we're already seeing the fruits on that labor.
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Sure.
 
 Operator
@@ -538,10 +518,7 @@ Paribas. Please go ahead. Your line is open.
 
 Bloomberg Transcript
 
-Q - Gregory Simpson
-
-{BIO 18850594 <GO>}
-
+Q - Gregory Simpson {BIO 18850594 <GO>}
 Hi. Good morning. Thank you for taking my question. If I could go back onto the advisor
 question, could you provide any color on how the advisor school is going, which is building
 us the way to grow advisors, about everything, on partnering, from the IFA industry, and
@@ -555,10 +532,7 @@ internally run Platform and systems that eventually can be -- can retired at som
 Just to understand, the mix between what is going to be (inaudible) debt and what is
 other costs of within the Platform costs base? Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay. Thanks Greg. I'm going to take -- I'm going to ask Steve Gazard to answer your first
 question. Steve, as you know, the CFO of Quilter Financial Planning. Mark, of course,
 containment costs for the full year, and I think, probably also you could take the third one
@@ -584,10 +558,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
-
+A - Stephen Gazard {BIO 21784069 <GO>}
 Great. Okay. And Greg, just on your first question, it was around the general cost for the
 business and guidance. On that, we previously guiding towards about GBP560 million of
 full year expenses for this year, which I'm still more or less guiding towards that, obviously
@@ -607,10 +578,7 @@ entertainment, marketing, some development spend, those are the things I'm expec
 that has the UK and as we as a business, going to more of a office-based working
 environment, again, that's some of those costs will go up in line up focusing at our fullyear results.
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 On the Platform expenses, that the first half is full of bit of a transitional period, because
 you've got a portion of it, that was still operating the old platform and then a portion of it,
 that's all being on the new Platform. So, there's a little bit of a double count in terms of
@@ -620,10 +588,7 @@ rather than the run costs, are in the below the line item around the Platform
 transformation program, that the operational costs do have an element of inefficiency
 given that it was taken place over the transitional period. So hopefully that answers.
 
-Q - Gregory Simpson
-
-{BIO 18850594 <GO>}
-
+Q - Gregory Simpson {BIO 18850594 <GO>}
 Thank you.
 
 Operator
@@ -631,9 +596,7 @@ Thank you. (Operator Instructions) And we've got some further questions coming t
 Okay. And next question comes from the line of Gurjit Kambo of JP Morgan. Please go
 ahead. Your line is open.
 
-Q - Gurjit Kambo
-
-{BIO 6300383 <GO>}
+Q - Gurjit Kambo {BIO 6300383 <GO>}
 Page 11 of 20
 
 
@@ -657,10 +620,7 @@ demand you're seeing from clients? There are much bigger demand now for the ESG
 side and then and where are you on that edge, are you using it to invest in or are you kind
 of already there? Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay. Thank you, Gurj. I'm going to pass to Steven Levin. I think you can take both of these
 questions. Let me just say very quickly on ESG. We certainly are seeing greater demand.
 At the same time, we're taking or give ourselves that we want to be leaders in this area.
@@ -669,10 +629,7 @@ forward with it. But Stephen, first of all Platform, what you expect on retentio
 
 Bloomberg Transcript
 
-A - Steven Levin
-
-{BIO 18803363 <GO>}
-
+A - Steven Levin {BIO 18803363 <GO>}
 Sure. Thanks. So, on the outflows. Outflows have increased as market activity has
 increased. So, if you go back to last year, actually, the outflows were quite depressed as
 the rates, because those advisor activity, less transfer of pension business around, the
@@ -711,10 +668,7 @@ give great advice and help customers select the ESG (inaudible). We're in the bo
 at the moment and we're very pleased with where we are. That's probably all I'd say on
 ESG at this point. We do say that obviously it's strategically very important.
 
-Q - Gurjit Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit Kambo {BIO 6300383 <GO>}
 Great. Thank you, guys.
 
 Operator
@@ -745,10 +699,7 @@ slower. Just due to people taking holidays and what have you -- would that be ki
 fair assumption for the Quilter of Q3, and then maybe distinct flows and activity to pick up
 again in Q4? Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Thanks, Ben. Look, I'm going to say a few things first on the Platform and advisor assets
 and other platforms and hand over to Steve Gazard very quickly to talk about what we're
 doing there. And then in terms of QFP revenues I'll hand over, and particularly regard to a
@@ -787,10 +738,7 @@ to say some of the things that we're looking up there.
 
 Bloomberg Transcript
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
-
+A - Stephen Gazard {BIO 21784069 <GO>}
 Yeah. So, I mean, (inaudible) our focus is absolutely been on driving, the adoption through
 new business, the way advisors work is that they will absolutely read that first, and then
 look at the back books activity. We've been really pleased with our progress to date and
@@ -801,10 +749,7 @@ our focus is now shifting towards helping advisors look at their opportunities w
 books and look efficiently how we move across in doing so. That's really where we're
 driving our next agendas.
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 If I just ask the question just around the action portion of revenues linked mortgage, I can
 give you the mortgage and protection number on it rather than mortgage specifically,
 we've had across the business in the GBP59 million of Quilter Financial Planning revenue is
@@ -818,9 +763,7 @@ the UK. So that's, that sort of gives you, I think, a feel for the order of magn
 Q - Benjamin Bathurst
 Okay. Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 Page 14 of 20
 
 
@@ -838,21 +781,13 @@ FINAL
 Thank you. And our next question comes from the line of Nicholas Herman of Citigroup.
 Please go ahead. Your line is open.
 
-Q - Nicholas Herman
-
-{BIO 18097295 <GO>}
-
+Q - Nicholas Herman {BIO 18097295 <GO>}
 Yes. Thank you for taking my questions. Hopefully, you can hear me. Okay?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Yeah. We can hear you fine. Thank you.
 
-Q - Nicholas Herman
-
-{BIO 18097295 <GO>}
+Q - Nicholas Herman {BIO 18097295 <GO>}
 
 Bloomberg Transcript
 
@@ -874,10 +809,7 @@ April, I mean how you feeling about the market and as you yourself -- see yourse
 being even more constructive on the M&A option, on your potentials to acquire? Yeah.
 Okay. Thank you. Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Thanks. I'm going to say a couple words on your first one on advisors and maybe hand
 over to again to Steve Gazard. I think inflation and its impact on our margins over to Mark,
 certainly and I'll come back and mention a bit about what I see in terms of M&A.
@@ -897,10 +829,7 @@ Date: 2021-08-11
 
 FINAL
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
-
+A - Stephen Gazard {BIO 21784069 <GO>}
 Yeah. I mean, I'll review in this area. It's been wide-reaching from integrated flows through
 to case counts, through to average case size, through to profitability of the business,
 through to kind of alignment with our propositions, and ultimately, that's not a one-size
@@ -910,24 +839,15 @@ has carried on throughout the process and certainly in our network, in conjuncti
 principles of that network from environment. So, there isn't a one-size fits-all, but all the
 metrics you'd usually expect.
 
-Q - Nicholas Herman
-
-{BIO 18097295 <GO>}
-
+Q - Nicholas Herman {BIO 18097295 <GO>}
 Okay.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Inflation?
 
 Bloomberg Transcript
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 So, look, the inflation question is kind of, it depends. It depends on the rates of inflation
 and it depends what some of the second order impacts are going to be of having a
 higher inflationary environment. Say if we have a higher inflation environments and interest
@@ -939,10 +859,7 @@ time, but it does depend on what else happens at the same time as there is a hig
 inflationary cost environment, which I don't think, we use unusual for us. I think the same
 probably applies to most of the businesses in the UK operating in our segment.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 I think on M&A. The first thing I'd mention is that, Quilter does not have to do M&A. To
 build culture, we had to do some M&A. And as much disposals as we did acquisitions, if
 not more in fact, but we have now got the business and the shape of business that we
@@ -954,10 +871,7 @@ have a business in the shape you want. We get offered stuff like (inaudible) Cen
 little do we actually, even really look at. But I think we've got a good business model now.
 A business in the right shape and the core goal is organic growth.
 
-Q - Nicholas Herman
-
-{BIO 18097295 <GO>}
-
+Q - Nicholas Herman {BIO 18097295 <GO>}
 Great. And can I have just follow-up again, on the first question on the advisors. I mean,
 what do you saw, any revenues that we bill, but there wasn't any revenues session from
 advisors.
@@ -970,29 +884,21 @@ Company N ame: Quilter PL C
 Company Ticker: QLT L N Equity
 Date: 2021-08-11
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 There is a bet on annualized basis. It's sort of low single-digit millions, around about GBP5
 million in total. That's we don't feel the impacts over (inaudible) coming from, but it's
 more or less that sort of a level.
 
 FINAL
 
-Q - Nicholas Herman
-
-{BIO 18097295 <GO>}
-
+Q - Nicholas Herman {BIO 18097295 <GO>}
 Good bye. (Inaudible)
 
 Operator
 Thank you. And we have one further question on the phones at this time. That's from the
 line of Enrico Bolzoni of Credit Suisse. Please go ahead. Your line is open.
 
-Q - Enrico Bolzoni
-
-{BIO 19966397 <GO>}
+Q - Enrico Bolzoni {BIO 19966397 <GO>}
 
 Bloomberg Transcript
 
@@ -1006,10 +912,7 @@ say, a scalable DSM proposition. How important you think that is and try to conv
 join and can you give a bit more color on the actually the very good margins you add on
 Cheviot in the first half of this year? Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Okay. Again, I'm going to hand over to Steve Gazard the first one and Andy McGlone, who
 is the Chief Executive of Quilter Cheviot, for the second one.
 But just in, I'll say quick on advisor crew. And we said that from the end of this year, we
@@ -1018,10 +921,7 @@ And that's what we -- we've have done that all better on that in the past and th
 we will do again from the end of this year. If you want to add or if you want to talk about
 the sources that we get advisor numbers from.
 
-A - Stephen Gazard
-
-{BIO 21784069 <GO>}
-
+A - Stephen Gazard {BIO 21784069 <GO>}
 Yeah. Absolutely. So, we continue to recruit from (inaudible) We in respect to go back to
 kind of single-digit net numbers as Paul talk about. But from our perspective, we are
 rightly being discerning on who we're allowing in the door, and we have multiple routes.
@@ -1030,10 +930,7 @@ but also the financial advisor school we've already said. Yeah. And financial ad
 definitely holds part of our long-term agenda to bring the next generation of advisors, so
 that we're not reliant on a circle of other existing market.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Page 17 of 20
 
 
@@ -1050,10 +947,7 @@ advisors over to Quilter Cheviot. So that's, and of course, that is all run by A
 the Chief Executive. So, Andy join, and say a little bit more about the margins that you
 see.
 
-A - Andy McGlone
-
-{BIO 18492549 <GO>}
-
+A - Andy McGlone {BIO 18492549 <GO>}
 Sure. I mean, you saw from the chart, that the margins revenue, margins have held up
 pretty well. They've been pretty constant for a number of years now, even though we've
 thought they might drop down a little bit each year. But I think in some ways even if they
@@ -1062,16 +956,10 @@ based on the tiers level. So, actually, if markets rise -- as markets rise, you 
 blended cost to the clients and see that would have a little impact on margins. But now
 they've been holding up pretty well.
 
-Q - Enrico Bolzoni
-
-{BIO 19966397 <GO>}
-
+Q - Enrico Bolzoni {BIO 19966397 <GO>}
 Great. Okay.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 I think that's it for questions on the line. Is that right, operator?
 
 Operator
@@ -1090,10 +978,7 @@ rationale for the transfer there.
 The second question is of course for Mark. Should we think about the higher FSCS charge
 as normal and ongoing or higher with assets what you'd expect in the future.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 So let me just start and share a few words and then I'm going to hand over to Andy. One
 thing, I think we've all learned here at Quilter over the last 18 months of this pandemic, is
 that we operate better when we operate around our clients, as opposed to operate
@@ -1117,10 +1002,7 @@ Bloomberg Transcript
 
 FINAL
 
-A - Andy McGlone
-
-{BIO 18492549 <GO>}
-
+A - Andy McGlone {BIO 18492549 <GO>}
 That's largely, I mean, if I'm making this client journey experience so much better, but it's
 also that makes it a lot easier for our staff and, not having to duplicate things, bringing
 people much closer together, geographically more aligned. We just feel that we can really
@@ -1145,10 +1027,7 @@ expectation is that, as I've already said, FSCS levies will continue to increase
 rate than pure inflation over the next little sort of while.
 Okay. Nothing else. I think, we can (multiple speakers) do you want to say few words?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Yes. Let me -- first of all thank you for listening in this morning, everybody. As I said, I'm
 really pleased with the results that we've delivered today over the half-year. Strong
 increase in profits, strong increase in flows, both gross and net flows, real reduction in

@@ -20,10 +20,7 @@ Presentation
 
 Bloomberg Transcript
 
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Good morning everybody. Welcome to our First Full Year Results Presentation. As you
 know, we announced the CFO transition back in November with Mark Satchel succeeding
 Tim Tookey. So you'll hear from both of them this morning. Tim will talk about the
@@ -250,10 +247,7 @@ we have completed the UK platform transformation, we will look again for further
 efficiencies.
 Right, now, let me hand over to Tim to walk you through the 2018 financials. Tim?
 
-Tim Tookey
-
-{BIO 4817047 <GO>}
-
+Tim Tookey {BIO 4817047 <GO>}
 Thanks very much, Paul, and good morning everybody. I want to start with an updated
 version of a slide that I used back at the interims. And you will remember how this slide
 works. So, let's get straight to the question of how the business performed in its maiden
@@ -416,10 +410,7 @@ means a perfect business just yet, but it has great potential, strong market pos
 each key business area, a strong executive team and strong secular market growth ahead
 of you. Mark, it's over to you.
 
-Mark Satchel
-
-{BIO 18275874 <GO>}
-
+Mark Satchel {BIO 18275874 <GO>}
 Good morning, everyone, and Tim, thank you very much for those kind words. It's been a
 pleasure working as a team with you over the last two years or so, and I've learned
 immense amounts, and I wish you all the best for your future. Now, what I'd like to do this
@@ -593,10 +584,7 @@ improving operating margin over the next three years as the benefits of our opti
 program come through.
 Now back to Paul.
 
-Paul Feeney
-
-{BIO 17570862 <GO>}
-
+Paul Feeney {BIO 17570862 <GO>}
 Thank you Mark. So, this is a good set of results in what became a more challenging
 market as the year went on. Despite that, our business is very much where we wanted it
 
@@ -629,18 +617,13 @@ from his wise counsel. This will be his last presentation on behalf of Quilter. 
 kindly agreed to take all the difficult questions. Okay. Who's going to get it started?
 
 Questions And Answers
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
 (Question And Answer)
 
-Q - Andrew Sinclair
-
-{BIO 17749036 <GO>}
-
+Q - Andrew Sinclair {BIO 17749036 <GO>}
 Thanks. It's Andrew Sinclair from BofA Merrill Lynch. Three from me as usual, if that's okay.
 So firstly, just on adviser recruitment. Just wondering if you could give us a bit more detail
 on the pipeline after the Charles Darby acquisition. What the pipeline is looking like for
@@ -653,17 +636,12 @@ how much do you think is appropriate in a steady state scenario? I realize you'v
 few things going on at the moment. We cannot think about, but how much you think is
 steady state hold co cash? Thanks.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Sure. Thanks Andy. Well, I'm going to take the first question RFPs and second actually on
 our margin target with adviser recruitment, and ask Mark to address the third question on
 capital liquidity. Do you want to take that now?
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
+A - Mark Satchel {BIO 18275874 <GO>}
 
 Page 12 of 16
 
@@ -687,9 +665,7 @@ more of what some of our competitive are at, but that's not going to be immediat
 that may take time and clearly the Board will deliberate on these things as we go through
 the normal course of events.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
@@ -712,10 +688,7 @@ investment of these businesses is very good. We are very used to doing this and 
 up as a very profitable part of our business.
 Okay, next question, Johnny?
 
-Q - Johnny Vo
-
-{BIO 5509843 <GO>}
-
+Q - Johnny Vo {BIO 5509843 <GO>}
 It's Johnny Vo from Goldman Sachs. Just few questions. I guess the platform is still
 dominated by flows coming in from IFA So it's at about 65%, but yet when we look at the
 flows in Quilter Investors, north of 80% or 85% is coming from your restricted advice. So,
@@ -726,10 +699,7 @@ regards to ROE, I guess you're op margins are improving quite favorably. There s
 be a relationship between ROE and price to book for your stock. So how do you square
 that two? Thanks.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Page 13 of 16
 
 
@@ -759,10 +729,7 @@ questions?
 
 Bloomberg Transcript
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 So, different acquisitions, do you have different paybacks, and ROIs. ROIs is one of the
 things that we focus on the most. Typically we'd expect on the distribution side that the
 return on investment that overall Quilter achieves within the three-year period is anywhere
@@ -775,16 +742,10 @@ equity position because you capitalize and all of that in your balance sheet and
 that coming through, and I think that that effectively ends up becoming a differentiating
 factor between things that you were asking about.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
-
+A - Paul Feeney {BIO 17570862 <GO>}
 Next question, Greg?
 
-Q - Gregory Simpson
-
-{BIO 18850594 <GO>}
-
+Q - Gregory Simpson {BIO 18850594 <GO>}
 Hi, good morning, it's Greg Simpson from Exane. Three question for me, first would be on
 cash conversions. It was 88% I think in 2018, the guidance was 80% at IPO So just -- what's
 the longer term outlook around cash conversion? Do you think it improves over time as
@@ -797,9 +758,7 @@ you still have -- do you think you're investing enough to you keep level with ki
 competitors in the space, particularly when there's the likes of the one of the largest retail
 banks in the UK wanting to become a lot bigger in the advice space? Thank you.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 Page 14 of 16
 
 
@@ -813,18 +772,13 @@ in terms of investing. Mark, do you want to talk about cost conversion rates?
 
 FINAL
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 Yeah, our guidance on cash conversion at 80% remains. I think we had a good year this
 year at 88%. So, we didn't have as much of a capital strain associated with some of the
 businesses we had originally anticipated. That rate will fluctuate depending on the mix and
 where profit is arising in the different parts of our business going forward. But our longerterm view is we still got towards an 80% cash conversion rate.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
@@ -852,10 +806,7 @@ market. We know the business very well. This is not a periphery business for us.
 not something outside of the core. This is our core business, it's what we do. Next
 question, yes, Gurjit.
 
-Q - Gurjit Kambo
-
-{BIO 6300383 <GO>}
-
+Q - Gurjit Kambo {BIO 6300383 <GO>}
 Hi, good morning. I'm Gurjit Kambo, JP Morgan, just two questions. Firstly, on the revenue
 margin, takes up a little bit in 2018 by a basis point. Just want to understand what
 products sort of increased that margins? Because I would have thought, in a more
@@ -863,9 +814,7 @@ challenging market backdrop, perhaps people will be going more risk off, and may
 margin go down, but good it's increased. And the second just in terms of the costs, if you
 could just clarify the flat cost in 2019, is that excluding Charles Derby, the 15 million?
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Page 15 of 16
 
@@ -885,10 +834,7 @@ from conservative right through to more aggressive. But there was more flow to d
 Cirilium in 2018. That could change, it could stay the same, it depends on our clients.
 Mark?
 
-A - Mark Satchel
-
-{BIO 18275874 <GO>}
-
+A - Mark Satchel {BIO 18275874 <GO>}
 Maybe I'll just add to the revenue margin, we've also obviously got a slightly bigger book
 of integrated assets now. We are generating revenue from more than one place, which
 also helps contribute towards it. But our revenue margin guidance remains unchanged
@@ -899,9 +845,7 @@ a quite a few of them in late -- towards the back end of last year and some of t
 you might, still be making this year, also have an impact on that. So we're trying to really
 guide broadly on our like-for-like sort of expense base for the business.
 
-A - Paul Feeney
-
-{BIO 17570862 <GO>}
+A - Paul Feeney {BIO 17570862 <GO>}
 
 Bloomberg Transcript
 
